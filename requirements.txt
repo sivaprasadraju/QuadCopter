@@ -1,0 +1,6 @@
+pymorse
+matplotlib
+opencv-python
+pygame
+numpy
+grequests
