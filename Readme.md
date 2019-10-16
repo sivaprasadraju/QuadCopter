@@ -2,7 +2,7 @@ Pre-Requisites -> Python3 , Ubuntu OS (Recommended)
 
 # Setup
 
-1. clone the files from the git cloud location ```git@git.aconex.cloud:hackathon/october-2017/intellispect.git```
+1. clone the files from the git cloud location ```https://github.com/sivaprasadraju/QuadCopter.git```
 
 2. Install morse simulator from ```https://www.openrobots.org/morse/doc/stable/user/installation.html```
 
